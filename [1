@@ -1,0 +1,23 @@
+[33mcommit c482a9fe9be69b620d124df16a5964915f31a09c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jaime Moreno <ja.moreno12@uniandes.edu.co>
+Date:   Thu Jan 27 22:16:39 2022 -0500
+
+    Agregar branch prueba dos
+
+[1mdiff --git a/exerciseOne.txt b/exerciseOne.txt[m
+[1mindex 9d88478..6b6c547 100644[m
+[1m--- a/exerciseOne.txt[m
+[1m+++ b/exerciseOne.txt[m
+[36m@@ -2,12 +2,4 @@[m [mMi nombre es Jaime, estoy practicando el manejo de consola y Git[m
+ Esto lo hago porque me convertire en programador  [m
+ Cambiare mi futuro[m
+ [m
+[31m-<<<<<<< HEAD[m
+ Estoy haciendo una prueba en una nueva rama [m
+[31m-=======[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-Esta es una prueba en una nueva rama, lo que hare sera unir las tres[m
+[31m->>>>>>> pruebaDos[m
