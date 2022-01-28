@@ -2,4 +2,12 @@ Mi nombre es Jaime, estoy practicando el manejo de consola y Git
 Esto lo hago porque me convertire en programador  
 Cambiare mi futuro
 
+<<<<<<< HEAD
 Estoy haciendo una prueba en una nueva rama 
+=======
+
+
+
+
+Esta es una prueba en una nueva rama, lo que hare sera unir las tres
+>>>>>>> pruebaDos
